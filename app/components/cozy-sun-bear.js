@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-cozy/components/cozy-sun-bear';
